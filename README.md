@@ -1,4 +1,11 @@
-### Hi there 👋
+# Profile
+Sejong Univ. - Economics&Commerce(2017~)
+
+Sejong Univ. - Computer Engineering(2021~)
+# Activity
+# Project
+# Interest
+
 
 <!--
 **HammerStrength/HammerStrength** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

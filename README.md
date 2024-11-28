@@ -15,6 +15,7 @@ Sejong Univ. - Central Club
 # Project
 - Image Impainting with Stable Diffusion Model<br>
 - Fashion Recommendation System<br>
+- VR Game(Cheat'em in Texas) - 포커 타짜<br>
 
 # Interest
 - Computer Graphics.

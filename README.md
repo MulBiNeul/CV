@@ -1,13 +1,14 @@
 # Profile
-Sejong Univ. - Economics&Commerce(2017 ~ 2025)<br>
+Sejong Univ. - Economics&Commerce(2017.3 ~ 2025.2)<br>
+Sejong Univ. - Computer Engineering(2021.3 ~ 2025.2  )<br>
 
-Sejong Univ. - Computer Engineering(2021 ~ 2025)<br>
 # Activity
 Sejong Univ. - Economics&Commerce
 - Student Council President(2020.12 ~ 2021.12)<br>
 
-Sejong Univ. - Central Club
+Sejong Univ. - Central Club(SAI)
 - Sejong Artificial Intelligence(2023.3 ~ 2025.2)<br>
+- Sejong Artificial Intelligence Manage Team(2024.1 ~ 2025.1)<br>
 
 2024 OUTTA AI BOOTCAMP(2024.8 ~ 2024.9)<br>
 2024 Data Creator Camp(2024.9 ~ 2024.11)<br>

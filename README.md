@@ -11,7 +11,7 @@ Sejong Univ. - Central Club(SAI)
 - Sejong Artificial Intelligence Manage Team(2024.01 ~ 2025.01)<br>
 
 2024 OUTTA AI BOOTCAMP(2024.08 ~ 2024.09)<br>
-2024 Data Creator Camp(2024.09 ~ 2024.11)<br>
+2024 한국지능정보사회진흥원 Data Creator Camp(2024.09 ~ 2024.11)<br>
 
 # Project
 - 🌠 Image Impainting with Stable Diffusion Model<br>

@@ -14,9 +14,9 @@ Sejong Univ. - Central Club(SAI)
 2024 Data Creator Camp(2024.09 ~ 2024.11)<br>
 
 # Project
-- 🌠Image Impainting with Stable Diffusion Model<br>
-- 🥋Fashion Recommendation System<br>
-- 🃏VR Game(Cheat'em in Texas) - 포커 타짜 게임<br>
+- 🌠 Image Impainting with Stable Diffusion Model<br>
+- 🥋 Fashion Recommendation System<br>
+- 🃏 VR Game(Cheat'em in Texas) - 포커 타짜 게임<br>
 
 # Interest
 - Computer Graphics.

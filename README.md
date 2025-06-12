@@ -12,6 +12,7 @@ Sejong Univ. - Central Club(SAI)
 
 2024 OUTTA AI BOOTCAMP(2024.08 ~ 2024.09)<br>
 > 예선 탈락<br>
+
 2024 한국지능정보사회진흥원 Data Creator Camp(2024.09 ~ 2024.11)<br>
 > 예선 탈락<br>
 
